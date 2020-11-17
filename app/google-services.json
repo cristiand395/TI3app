@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "747641821052",
+    "firebase_url": "https://theinternational3-4f436.firebaseio.com",
+    "project_id": "theinternational3-4f436",
+    "storage_bucket": "theinternational3-4f436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747641821052:android:eda80d960d4eb0143ff6f9",
+        "android_client_info": {
+          "package_name": "com.example.ti3app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747641821052-8r1ln48ml69gud5rmolvr4m5s0d40q5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ti3app",
+            "certificate_hash": "2eaf7d76a4b6f1f3aefa2e707bcb264edc9b41c5"
+          }
+        },
+        {
+          "client_id": "747641821052-j892juto6bb02tg106lfa0s2ri26tde7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWSWE_MJQ4J5x85oZ22Lu4MRpTnF0yyO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747641821052-j892juto6bb02tg106lfa0s2ri26tde7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

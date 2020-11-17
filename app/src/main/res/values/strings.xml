@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TI3app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ti3_description">El Campeonato Internacional de Dota 2 se llevó a cabo del 8 a 11 de agosto de 2013 en Seattle, Washington, en el Benaroya Hall. Fue unos de los torneos con más hype en la historia de Dota 2. Los campeones del TI3 fueron Alliance. Alliance derrotó a Natus Vincere en un Bo5 con una puntuación de tres a dos, asegurándose la Aegis of Champions y  1,5 millones de dólares.</string>
+    <string name="participants_description">De los 16 equipos participantes, 13 fueron invitados, y dos de los equipos restantes recibieron su lugar en el torneo a través de dos torneos clasificatorios geográficos solo por invitación, el "West Qualifier" y el "East Qualifier". El equipo final recibió su lugar al ganar el Wildcard Match entre los subcampeones de los dos torneos clasificatorios.</string>
+    <string name="prizepool_description">El premio acumulado base fue el mismo que se usó en la primera y segunda Internacional. Sin embargo, el 25% de los ingresos generados por la venta del Compendio interactivo se redirigió al premio acumulado. La bolsa de premios final fue de $ 2,874,380 ($1,274,380 agregados) USD</string>
+    <string name="address">200 University St, Seattle, WA 98101, Estados Unidos</string>
+    <string name="url">http://www.seattlesymphony.org/benaroyahall</string>
+    <string name="phone_number">+12062154800</string>
+
+</resources>
